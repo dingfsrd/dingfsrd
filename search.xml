@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2018/03/12/hello-world/"/>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>星期二早读下课</title>
+      <link href="/2018/02/27/%E6%98%9F%E6%9C%9F%E4%BA%8C%E6%97%A9%E8%AF%BB%E4%B8%8B%E8%AF%BE/"/>
+      <content type="html"><![CDATA[<p>一下课一片人都在趴头睡，安静的没人说话，虚无的走廊，看着无奈啊，每天几乎睡不够，晚修能否提前下甚至取消？闲来想象，以后可以吧。</p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>新年好，大年初二</title>
+      <link href="/2018/02/17/%E5%88%9D%E4%BA%8C%E6%80%9D%E5%BF%B5/"/>
+      <content type="html"><![CDATA[<link href="/style.css" rel="stylesheet" type="text/css"><script src="/crypto-js.js"></script><script src="/mcommon.js"></script><script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script> <div id="security"> <div class="input-container"> <input type="password" class="form-control" id="pass" placeholder=" 不造密码就别进来啦，不要硬来啊弄得人家好疼的。 " /> <label for="pass"> 不造密码就别进来啦，不要硬来啊弄得人家好疼的。 </label> <div class="bottom-line"></div> </div> </div> <div id="encrypt-blog" style="display:none"> U2FsdGVkX19ApHFxO8T+VyHThB+d2wzaLauH41xBVDmEgn7NuQq3ojynmAv6yOfEKsDxwAcgcsuM93A+2WzZWs7o7aw4qFkiy91NtrNQiYoamkxvURVK4JZew6cw+WmziXvNhFgDidyOyqwlPHmXQqV7YICzyjea8apsxr1FQFyHPRE4k5us5QMy8o2CE9kRJtdDylOeUWv0C7Acn3hWrK913toq8wprOlq3jse6D+X2IFcTI1uIqIHwtnCoN+vnjoYb1TSjVm4OtWA8XhF+YyqhFuQP6hgBGZxJ6gi3MfPBDGwVrHPnKf3gusp9Dji9JpgwpVrUSLL+DwAGRB3fGmUA5pAxX5sX5eEQMIWOWAMeZXlf6T/IRijRy8B+jCY4TtTsbPxIqcu/nkHORzcLurg81++nFmWIfZl8CLPTaVb6h0pFeWVDq3eOcYF7W/q+LXyMYFontZEWJY8kCTTjynH4/8AtT5rm45PvUTkvLxEC2pAziSHTERP1iHd0eJcHpyD44slJYs3GeFsZVYCsyTtaC4bd4XNtqY904cURZKurm1f+a0368fGcvAlDFaZs6piqo2nHzmsZ4HBoZNlesN4BEE4To80BzkfOKt4F7axkZkUV4c6aABZNJH4kbOuKygCFp5vLEMBrLKUGoNzdvRq7Co9eMcoNWGFfuBD1alAYtNhyutF1CwQRhI6j4pMMAiU+vVOH0LMYGr0gYpoWSqK2gkCkZt7h+g89oY6g1uMS524CQiAilwUmIrmuWKdjX4LgyRjaexzCqWcoMns4Z4j8iX2lpUScSEk1L5bgwoHnyCqDdtSvCXKiC9x5DfCjHw9Tmc1+7GqtvCyQqUEgxo7igGJJ51yd7SHv3515AnDtrDkJGmCpK1sRYaf097sjGW9zpXrd/Ner9WIxyY5F8+Qn0CSHYgehqKjAWF094xCFs0iu/7OucbKRaE/Qt4nrWLKfxZvyETIUsYWepXe9CrHcU5tO/edpFMZs9/HWt+EPNEzqQH5oGxuVCFglE6Hmgj8BCfeW9bicY+P9Wlopr/IFp7Utwjdcn5ppoJM/DFU2+1ddrN0PHYQHMljidn4uu2RTOAX7tgLFIb52gYabTPLPngegXf6fTsriIEFK7VOSWsi8YvFIpGluGqUtoUF9JMx6E8b/mjPgxEGuIRalrXjwnOEhOh2ecFDr2aJWkvSayUFIugfi6eCeXVQMDF3Brilsv75KmYFgf+KmX0pnK72OhK1goOVsWsUz2u5t8pJASpw9w41KUN25z/hXqHJkKu2L15LvfecCTtLGmcNml+CJcy7H/ldZfaS/TTq8SG1p9NmFZnTY/3Yqhu25KBoy/fyfxvb0KIokofIfsP26617pjmYv7yUvtppm8H5L3bb96u/BrbuFRFN8e2T+rPFHS7glyB8x+nqATC6kgZTqR9Zbp6sehmbYzUqfdKum7ksrBIn5LQ2TzHGAQ7oBxvzI4EJruh7S9GitWA4mjwMKrJQ+OakOw2VglcMbY4+sp/gleKDYPPvTmOuRA/DsD/PAZDpuboV/MwOEH4QTlFpfOKNyCjSvGX4NIG/rs5BmK/7eFlJx5bPpbv+mOsDuBQSmJtV0Ucc7GwVC7gQAySayt9fJnajiRcozOeqLh0yvIil7VJs8ZkeWCOLZ5rl7N15MKaMk0FkXcpuRmcd7w5CSj28gtZoUOfPle67sgtkGVg06XmfMq9B1Gz7XgK4/E3YcPd/5r3u34VnuLeul87niDEd4vKcc8sEBJjagJvNei78CY8Bf7vAmffxSL2FlzrKSXvmTL+8/GBEBE8PYwfzqbFH4ImOq0z4TFJq9xAMlaJTzowFTT2lZDl+0+oe91y+Bo23Iw3wl/27CNVuq+8g9skNtd+6n8viCaC6DBUKaJ+FxD+0oKi9IGVwmbKivot1gAbw9l1BZJ9YV3we0Zbl5kZZNR577f9W0kWuBtnL5+JlC1wkyZUFbn/pPjIQm0C6x/LtAwJnim+6MYdH4rPbwhpeZZ+R21sL3R9I50rrES2K7A+9s1Gq/FwgoLr8mZVaJI2EgT9yvNGGM6dF7nJ9uO+RctzKwSvad2f2aSPBgV1KwqWxz2HZa/66d2BFfEgnc8g6cWAS3gkTttXilk6G+AdBqpixfc4D7wfkYM0NvrC2g9j+ACumkFN/w2LvGl/xmPWbjo3V1sFwY+HOf63tCLjW9+WSFfOsrBJqKUyxO4bFuToWWdeB28cKFOCvSvLMCk12CB3K9Vc/5B8ASW9nZ6guqQMBisuSdWrRTF6IZiDEzeOqE6AtqHOP9feKhD+dnBLaD793xEGXlRQWMx2r5q2typkhhj0dDm2aBt/7LUzjcT7SHIxjLkGsGXJlJUbtm86kLK6ALAVmddAHTXibz2aeFBKKZrm81l+Y9ATE5O1N7rL2j3qWr2Mhot0eUf6z/tY6u7nvICM3YzFiui7nb5KsC28wrDn0TkV+rYSUtsuD5g7iFjPJQ9Oos6emCLQebgcEfKd/GkE/9bVnLN0oNnJ5/6qPaBkpX7fnjBr4mcImtuT2pOSZwvOHZfvxhtGZn9kl53fv9p8wonlp0YVzTC3cRoeNfdTuknC2LmIbAqZW+QI0ubJhwpFWWhLXwkrTtW67CrKQstu14f2PcKuh2FWbSAJBPBpvqPWrRNimQojWZI2to9k4s2b3RyrO6784qKgzkmPy45ZP9cn8xQMKkVlz6ucPG5EhYlSk8Kd6l/kFoR8VKNhyCLZ0XYruEP6QKD8i9Dwb8z6RSF9yF/N8IttAGsRmq3fyjmiEWDBJRgq6t9UNrH5OccHcC206l3t36Rp8XOOH5iQGllhz3+uHtx988tiL1/mYjaH3Yrdznq46MGOLCfrBN5HfrMcBD9P65QgkdK3rUj63miUUWt3M7Ckb0qoW8iC+/yXZfZ9vIIElosXX1VJRe10YJaR41g3RdF51ZO4++bQBV32Eh2eF98YTKw7PSbEwaj1zizVkO0Vg3OvAHIKZJu8aulKpg/N07IbEgCWnjcsA27nBfDLDPv3b5Q4KYg5yk93nSG5I92GxLBCux8Nrc7lcLTczz39nT7pYWMWGjuY7nsuMfPiKuDeLZ7WV8mrvjXCxRUSCKM+rxPdybTcCIuUOb7IuKd6GioLVmzpPxnVgaz/2kHGb0QzZGxy1ifqXkMklLzUdUdpY1foetRToKU/AKr5SWY5Ip8W/MisZqHaFzXVaEZbY2FEOnOAmNMuU94aCWStqHhCV9upFBMmq+jCcRug21VSGi3MVWloPwusyU8RBnskIjHPF7RCcSrkteBx//0JfBTBV7zg+fi08HRY/X8i+RRhzarIC4ezPfGNBsFjqSlGMMRMOuF2KlG7DNLXAkKSt3inGFBGpuEGwVfXpT44vzkD3l+i4XXdWE9keduk1MvVIhgd1y9piRwtobolIOifZV+Opi7pdXB5qeCeVuR+ygmQGW/XmHPWsVHfc4eV0RaQtYi6iXkff9rFh1k6BhShh9cvkAfgCd5nwO+zGPYIRzfOVX/RnU2UE3ECvha2UegLsRYYN6m0UWEO+hJprBrRNyj3SvVPJqoHhHBo4d3TsrIR6C3gWSKlvWA0i2DxGfhXvzgi3DpHudkBulf6DSXRDwyPTT/gd0meC54+ezTof8imvrILO5ricQWsSWlSde8olmXaZux471cIwOIi4nHLa7M5dTXvKJRV3MfwYsf9Rkng2DItvkZCELTfZH+q8B3r68F5SlxlM18cAmWCzVioir78Y5SHJjEVygyNAWLB8Bpj5K0Og0EONcqxdvEqSlzc2z2LM7gASTYJb5pUw+7pBm2niM4JwF14HOgJWhig0hcbjz4WjI/QM0W0Nn3un67zmgAQWZB8PeGPmotUenqQeje9f8NP7IzoqrBcIDY+G3bl0cIhWkMErM0Ud8jUeQy8f0NVpEHI7y20hQqR1qLKBcmOwB4fxJM2EgTo4gvOEfMfA5O8O2JNwQLm1yPo3WKaepvm3bAO1zGsGvVUFy37SaWYeeqciN7BN2txG3L/qtGNZqjdreGk5mqnE2FtSMoQsv13lrDFLQDn6DT/hvSsVg4vQdDX3QybcNKUJ/StVYm7kIVd6Hy1wYwQN+wEqaJqJmlx+OhhLCteis9vy6Sz7yNeAlxniZcfWT5PMY61p4y3VdzvKPomcVZXPpuvGs5B2SUv2wTkDJhmX+TtvRfDcvcraJc8KdBFecaTerzm0Yh3OrfAKq9OwxnEvuRjKsyPc+oGjBf+OWLDM2gqvwL3dw1PKTOf36kc0oLaZUpTA72JXMQZFhvT0YF7vi8qLDljNlyYSGm3RqX30aZYeG2vfZV9XhYAvOaspsCSHZ6von1nhKWtvgauD/JIb8ZHIfzRlaxJQxvZWcMoeDKWX3nEQ38gasVXyWod8I53Hq5tgci3itF0PRlimwyp1ig1XPids5l57s4lmi1rRyjDHd2B17bQqPbcJBV0F52f7yn4OGbswA2sST81347/W5Obe6R/PloCrzkLjjIaLvr0+DQy/yJaEoE6JVZjh49oQGIhTIqgONoQSDPkDNpqNWivUxacqgZldUtcy8ZeQmTB1i92dAOWvUOOlzO8zajaewzXKEIzVsw3LfU662r8uS17J6Wafr4Bn9grJ8lMyuTavRGbtvl1YnaGsD313RunizxDFSH+u7Kcngb2cqYkMO03EfZ0LZrV+TXAkFxrZwTw+Qo/FJIphQ/vEVVb5hWLG32Yaco0Kd0Kp9PC3s1gzyqKRa0ERFvdfSxL0/j1oTrq8aK5DPk68U5y5g8W10d4moXOmEZ3FBDOZTHgoGxfnAgfY6LvrEz9cinMsoltqqRZj0EaB+Yonc6/zkIv6hemSlk0/OaCIvdiSxGT1UBBoPt39sE/bSFzqU6+2V6xlXXmkmXmLiArNJEWZ7uiYkYSvlw1hHy3RwutWn5EZQaZWtthYl/q5upoENbvQdaJRbICCDPAdfnJrx0T/fit+RwVZk18rgttCKGpUb5POgQnWBzTxAZzu4Rf+6VO+vffTQ9EnGSO1aspBVFhh5geRPzunNR2BLWnye2ZgTp+kZqXuXJxlz5QOH6sF4iIxLk2XNUHk54hjb1lBFoFjgOPquJ9Tt1A7TonqIDUrDEdklyHdDnV0gsNHYN9YnBy2F+6dCtUJ2QRW2GV22sG7vufH9RYU692/ko58OIJUw+l+m4WTd8E7ZqHH2t2GqO+PJOY6wSlOwmwTgRPxmonb6qDcB3dNF5Mmvt/jJMKzjusgFNRbzcKh0PtcWZcqkYXP1BXiJ7rLws0k0sISl8Nm6rFOfn/kzEv2tlBEom/91S6q1q1DkBuUwjqgwMuH2hsqzccIvQamE08qNGpLkT7U4ujHECqyx2APphk94qrfhxjE2YBpHW5IfyCY69Nm6UX0VNfMeHoUNI0/Rc2HMHNON4wPzYQsxX3eBcZzp9920eVFCumIN8N8nHD7kiY9OHJ6Nhi7gaseRTSEfXStB5T68Rb/G2qkvmtj+t9fmelhBfO3YPesX0SJUP26MtlRrUn59Vv2wep9TXHDhRQiGwGEVdo4SH61Avke3B8Ycp2Auo/F5VC9ubHOUl8ohfYZk8X4eDcOCURI8uRMrsxXudLUR4B4/4j7zL+anK2Bvuw8HIC5pzKFuVzG1h2qQJ16oAPPImAmk1Pyo3CNbhFWA8pJ8eS7KMKtcOylf4gylCpj28Cr19xOoE0/49KnNj/dRsjZv2z+DhzsV8sW46SmF0KBEIEV25oG3LHkkczlpNjqK9mDXs+y/Ki8jZV+08nRayslJ84Xa3grE2pPJINKrQ6dYaxZ7mO50/8rBl0BH4olJGO5FxP0SKwmMSXAnbGaO3QU38ousxXVh9U+Zv3uhCW9BD7w7XZJxFD/jXwdXMqTu3Js1xTH0AfJa+lna5dSNQq8TZ4xckEn6ONSMUko5KfmrZ8Jy1+Deeu8PEPLasMD9dXotpouzaWyeToyRQ3wp18L2hpyvgDsgLAdNu9zIwyXE6j4hneT1xa29n7DCzeIXM4UNdsbCzDZ2B42p7NApzc/swdjpUz4CCo0vyxktDv+/kzi/50/x6JzTmNV14uFxUEaeDxZBy+QpT+TKbCNdfp/QS0LuvAX8Mt7eJQNvO+d3EHN3Uzkve+w0WYm5i8kE//SU1VwpwgfK7vWjTOcA/4ObAxJoh3R7E+QJM7XVPapSshgQp3H+diQz7HbwzBzAOJ+49hbym8mzXEWXVVKbn2y9XQK4Y3WEd11Ch83X33OxgiCpDTSSSvmhe35i8y2tVWUYIwu7VSqGtITxOGidlOETb7iw8zeMvVptYcki7YOrb0t8ce0XcYz6CfiF0o/cMy1pkJKyF1nglNQHiXJFmRgnrxr/kzxXKTO8HzAk1Hd7mFRgUz2go+S/mevmwKnNblntxTNMe0BEpaQNALKh+KG6sIqXvM21WWgZFPxGtKqj5ENANU0UCjrXReczbV4oge+UgtlA7GfN4fCcaa9mKnMTn3tw3Z6afiI+49M013YeqSkD7Pnf+/n0vYhaa/S0ZpUkDS/eefkqKqZegOjftchKPMp+U/GeSMB54W29+SllsGqZK/oR203A52ps5zWId9vQ/HcObebEkVAkwr8SbxuTvvKheGOPwLcgtU6Je2ULHKcxFPILZVpeS5E04tib5NeYRafGs8Wj8/Gb0YpwX4AUdb9OtHqMN66JOblnZg4NoXfp70HasAqgB4VRuBeVik2NWF9NJzygJHrZ9hQViWXusy2TFNGilbW5jQso/4OhzsLsIgW54shzM3Vvr2dtbah+c8D4L/ol6V2gWWHEg+7DBHNAeMmUkqX/yaU+YkexcykKnYN+FS5ANpJImc/XPFK3Vv2DnWoRsnTWAjVLQ8uXzipNy/q6qL4MMPOAUzYqijHxGceXjw9eAmPSgRIMCn0jmgAuvj/W+yUSCJPVKtlP0JRQMIgqaPJVnyND5AoHuAhFmpLtiMEm5SAn0f9OmZuR3c72JYvD/agtxfgcoM53/9Q1q12FY4kPP+yNnH7FYcLkEu2MGO3fA7sAO1yHtv4ZUmKiRadAFYlPPJzEnGkHYV8IYUx6j+ll88XCT1QMSQb/b8OcXYJd9XnMDiprxlEsfLn51LEZ4GWCq+LIthNTK1aDgP3joQ5DVc8EL6qi7Ya+P9J7gb97dl19zoyPgld7NzakGKgz7kiEU72pG4Fpz/1sG0RvAu4C+cmticcAidVAh8bUqnniCXM+W9Zf/Z/TM57/bRq1mwv/GQzFMQO0wbKbEBSzMfAfRPOHrcPUKGRTlIs/ElkLdoyw/0hPrOdPkKNeuzsLnleLt1e6MAITE7oIz6v+e1DoiAAa1QcWtEoEN9mri8niAjYo6OkcK4odKS0XZK+DDvMywCiBTV0nKKt9dbQdbIXi58zANTc3GdCgx+Qhrp3T2GNeuvFhaDR7W2crjta/+vuSMpLDQ8kTQIQJfXOfki55mTFsff/td0nGMKEHNcf02MUFLQPp+4ttojst/gaZD4Kn6usULFpoitwVDTo0vxr0DHR7xZhHAVrwzHRlqwit4oDa2rvU+vBz1pETlEMLtns4I8bEiRGpgWmXMerNz6Rk9QYkBD3GI0tbHCLVwD4/t7mzXtoENJKeuTpf0WgTFpGKOZEGHKq2qggyBGh195Gx8I2/QP2OfUiSJB02c1AuJjl1ThYDiMYxdv105tZr5RMlK/ignLEDLC6Fj8N13Iw7uIsVzY8ykaX0gMUQEu2ZICxumFVyM3dTydSeCa3Bj+qRPwqtsWRRJevKiEGJdi0B3aCCjcOO+WUyRcHw/9QC9eFk19A28ixz9w7bMBy5dF8bWI/FdPy+P6osMwzi3ujBLdGDd7iI4W+XFB7znN+qNxIp5WzDQ7qxjOSo0Y9JWrWqELGUxPZjxvLjsPGc2E9DKVQsrT8/khQOdOeSm7PYU6tgCNzrDmzuOu3i4sRwXYQ/olRIfdhXtqUzWx+DY8v4n1jySFn8IHjCvBP2AmcqQheMHhTkjeCjQXDPp0wtRy8364UfE8u/I5iuOugJRgm110CNAxKBEoVZkDR+EVV6hqsjs31jSF4NFEr7t/7gl4vjeu3sZ5VmkxGX3L6AogC/Z9fTwndsBDBf9UOdc0yrYIGxxfWvM8Nr5+fiSLxh+/uKfS77zyOcIoALPDjdnwBzu7dV14tfZNuBANlH9W0Q7vmSNd9hADxwvBSvbZU4aYSpX+45g1WFlWdBDi7ga7UAaPhu9+Vxk0VRe/hbBOaZ2uqSuwCvOoWsoJn6GW1nxXp+EOWXT9yHdCrEzExRkzPHHfyWNAX5k42gJOA94EfdX6+QaEOheBc+ZDU3Ec268nAtU1AP6+Do7JowXUPkt07zCljjeAS8LSM1vYrSJGC0j63dIl/Iq1ZkxfeZqCnfcjYjLL9NNB4wHF13qVSEhuIx+l/F1Mkgsb5Df5pl4ePEeVNQfpGInKvcaoaq+gfWoIs4Cb0gShr7+Fapc7zK4dUZnZYpuVaWY3tZU5jX3ivQa+QlMlVe2mNAwPZjCfP31XGX/pJaox/5D0hCWzmjBg4IZCT3Q/TXMbDN8lVKOOgG3jVTwZ2DVAAw5f+/kEYwNlOf/jJSe1FwSSzuwrMvKdo3DqEvEmT12jEYeGWzO+9I75juvmcmYi7sG7QZTq0wozAUMTwc2jRIKuA93MPNffJtvKfFp9fd+hIPc5gWI/KeUjDPUZAu1H8S0yX+/fCFaPqGHIo7Spfx92whLQu1B5PXTo7rIYfKXviCmAvna4XNPoSEB66EhRo/zVxK4RrjLfkrPTQre5JHEwslOYBafx2/3hORkLmSjT88IHiYVqCbxZy3t8NQgCGpOeMuqWIw2JSzUMlmDAFUkrM8iNxJDCZZOPg= </div>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 散文 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>情人节快乐</title>
+      <link href="/2018/02/14/%E6%83%85%E4%BA%BA%E8%8A%82%E5%BF%AB%E4%B9%90/"/>
+      <content type="html"><![CDATA[<p>当我还写的时候，证明我还想的，以后的时候，不要忘记，愿和平持续一千年</p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>只想你见见你</title>
+      <link href="/2018/02/14/%E6%88%91%E5%96%9C%E6%AC%A2%E3%80%82%E3%80%82%E3%80%82/"/>
+      <content type="html"><![CDATA[<p>那么近又那么远</p>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>文明4：烧脑策略与魔性下一回合的游戏</title>
+      <link href="/2017/08/09/%E6%96%87%E6%98%8E4/"/>
+      <content type="html"><![CDATA[<p>  第一次正式写的文章，之前下来玩玩，结果就一发不可收拾，欢迎各位来入坑<br>文明（CivilizationIV）是一个系列游戏，全称叫席德·梅尔的，文明4是于2005年10月25日，由Firaxis Games制作，2K Games发行，目前有三个资料片，分别是《战神》《刀剑之上》《殖民时代》。《刀剑之上》为目前文明4吧最受欢迎的一个版本，简写是bts。<br>在游戏你可以选择一个国家领袖，然后带领你的国家最终胜利。游戏最大的魅力之一就是回合制，有一种上瘾的感觉，总想着下一回合，不知不觉中时间过掉一大半。轻轻的一个细微操作，如蝴蝶效应一般，对后面产生的结果会截然。游戏中充满了偶然与随机性，也使得无法百分百复制别人的操作。游戏共有十种难度，目前我也是玩到皇帝。<img src="https://github.com/dingfsrd/picture/raw/master/%E6%8D%95%E8%8E%B72.PNG" alt=""><br>  游戏中有文明百科不仅可以增长你的见识，还可以让你更好地进行游戏，里面详细介绍了文明4里的各种东西<img src="https://github.com/dingfsrd/picture/raw/master/%E6%8D%95%E8%8E%B71.PNG" alt=""><br>    <img src="https://github.com/dingfsrd/picture/raw/master/%E6%8D%95%E8%8E%B73.PNG" alt=""><br>  我编不下去了，最后欢迎来文明4吧。<br>  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=25830127&auto=1&height=66"></iframe></p>]]></content>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>放首歌</title>
+      <link href="/2017/08/07/%E6%94%BE%E9%A6%96%E6%AD%8C/"/>
+      <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=402073807&auto=1&height=66"></iframe><br><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=375020&auto=1&height=66"></iframe>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>试试放个图片</title>
+      <link href="/2017/08/07/%E8%AF%95%E8%AF%95%E6%94%BE%E4%B8%AA%E5%9B%BE%E7%89%87/"/>
+      <content type="html"><![CDATA[<p>测试下图片<br><img src="https://github.com/dingfsrd/picture/raw/master/IMG_0082.PNG" alt="“测试图”"></p>]]></content>
+      
+      
+    </entry>
+    
+  
+  
+    
+  
+</search>
